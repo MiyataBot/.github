@@ -1,24 +1,20 @@
-<h2 align="center">Miyata! Bot</h2>
+### Hello! 
+#### Welcome to the MiyataBot repository!  
+#### We are currently developing several projects:
+|          Project          |              Description               |    
+|---------------------------|----------------------------------------|
+| MiyataBot                 | Bot for automating basic admin tasks.  |
+| MiyataBot-web             | Project website (inactive)             | 
+| MiyataBot-infrastructure  | Note: for developers. Maintaining a complex of interconnected service structures that ensure the functioning of the bot.  |
+| ...                       | Some developments are hidden  |
+
 <p align="center">
 <table align="center">
      <tr>
       <td>
          <p align="center">    
-         <img align="center" src="https://i.ibb.co/NmwJVns/logo.png" width="75%"/></a><br/>
-         <br/>
-         - 🤍 Miyata! Bot - multifunctional bot to administer your server 🤍 -
-         <br/>
-         - >>> Advanatges: <<< -
-         <br/>
-         - ⚪️ Universal warning system ⚪️ -
-         <br/>
-         - 🤍 Command for initial setup of your server 🤍 -
-         <br/>
-         - 🤍 Universal ticket system 🤍 -
-         <br/>
-         - ⚪️ And much more ⚪️ -
-      </td>
-      <td>
+         <img align="center" src="https://i.ibb.co/NmwJVns/logo.png" width="100%"/></a><br/>
+         <h5 align="center">Miyata! Bot</h5>
    </tr>
  </table>
 </p>
