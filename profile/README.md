@@ -4,7 +4,7 @@
 |          Project          |              Description               |    
 |---------------------------|----------------------------------------|
 | MiyataBot                 | Bot for automating basic admin tasks.  |
-| MiyataBot-web             | Project website (inactive)             | 
+| MiyataBot-web             | Project website                        | 
 | MiyataBot-infrastructure  | Note: for developers. Maintaining a complex of interconnected service structures that ensure the functioning of the bot.  |
 | ...                       | Some developments are hidden  |
 
